@@ -1,0 +1,24 @@
+{
+  "train_mean": 63.32539682539682,
+  "train_std": 17.707007308851683,
+  "((3, False), (5, True), (10, True), (5, False))": {
+    "min_val_mmd": -0.0024,
+    "val_mmd_fig_path": "val_mmd_figs/gen_1.pdf",
+    "weights_file_path": "gens_weights/gen_1.pt"
+  },
+  "((4, False), (6, True), (8, True), (6, True), (3, False))": {
+    "min_val_mmd": 0.0051,
+    "val_mmd_fig_path": "val_mmd_figs/gen_2.pdf",
+    "weights_file_path": "gens_weights/gen_2.pt"
+  },
+  "((8, False), (10, True), (12, True), (10, True), (8, True), (6, True), (4, False))": {
+    "min_val_mmd": 0.0009,
+    "val_mmd_fig_path": "val_mmd_figs/gen_3.pdf",
+    "weights_file_path": "gens_weights/gen_3.pt"
+  },
+  "((10, False), (12, True), (14, True), (12, True), (10, True), (8, True), (6, True), (4, False))": {
+    "min_val_mmd": -0.0016,
+    "val_mmd_fig_path": "val_mmd_figs/gen_4.pdf",
+    "weights_file_path": "gens_weights/gen_4.pt"
+  }
+}
